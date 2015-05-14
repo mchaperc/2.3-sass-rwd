@@ -396,6 +396,12 @@ input[type="submit"]:hover {
 		@include span-columns(6);
 		margin-bottom: 1em;
 	}
+	.site-link:nth-child(2) {
+		margin-right: 0;
+	}
+	.logo {
+		width: 40%;
+	}
 	.news-item {
 		height: 30em;
 		margin-bottom: 1em;

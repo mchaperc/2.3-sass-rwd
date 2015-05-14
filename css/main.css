@@ -388,6 +388,10 @@ input[type="submit"]:hover {
     margin-bottom: 1em; }
     .site-link:last-child {
       margin-right: 0; }
+  .site-link:nth-child(2) {
+    margin-right: 0; }
+  .logo {
+    width: 40%; }
   .news-item {
     height: 30em;
     margin-bottom: 1em; }
